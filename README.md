@@ -1,16 +1,28 @@
-### Hi there 👋
+## About me
 
-<!--
-**nomilkinmyhome/nomilkinmyhome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- backend developer
+- currently working for a CodingTeam company, project - [Samolet](https://samolet.ru/)
+- author of the [elasticmapper](https://github.com/nomilkinmyhome/elasticmapper) library
+- [MoscowCityHack2022](https://moscityhack2022.innoagency.ru/) 1-st place winner
+- [DataHack2022](https://data-hack.ru/) 3-rd place winner
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+
+#### Backend
+
+- python
+- django, flask, fast api, aiohttp
+- DjangoORM, SQLAlchemy, PeeweeORM
+- PostgreSQL
+- ElasticSearch
+- Kafka, RabbitMQ
+- Redis
+
+#### DevOps
+
+- k8s
+- docker, docker-compose
+- nginx
+- YandexCloud
