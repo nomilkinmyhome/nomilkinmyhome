@@ -1,7 +1,7 @@
 ## About me
 
 - backend developer
-- currently working for a CodingTeam company, project - [Samolet](https://samolet.ru/)
+- currently working for a [CodingTeam](https://codingteam.ru/) company, project - [Samolet](https://samolet.ru/)
 - author of the [elasticmapper](https://github.com/nomilkinmyhome/elasticmapper) library
 - [habr](https://habr.com/ru/users/akernelpanicv/posts/) writer
 - [MoscowCityHack2022](https://moscityhack2022.innoagency.ru/) 1-st place winner
