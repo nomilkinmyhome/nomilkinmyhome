@@ -1,7 +1,7 @@
 ## About me
 
 - backend developer
-- currently working for a [MySky Company](https://mysky.com/), Quotes project
+- [CodingTeam](https://codingteam.ru/) TechLead & TeamLead
 - author of the [elasticmapper](https://github.com/nomilkinmyhome/elasticmapper) library
 - [habr](https://habr.com/ru/users/nomilkinmyhome/posts/) writer
 - [MoscowCityHack2022](https://moscityhack2022.innoagency.ru/) 1-st place winner
