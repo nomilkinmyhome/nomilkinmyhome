@@ -1,6 +1,6 @@
 ## About me
 
-- backend developer
+- senior backend engineer (Python/Golang)
 - [CodingTeam](https://codingteam.ru/) TechLead & TeamLead
 - author of the [elasticmapper](https://github.com/nomilkinmyhome/elasticmapper) library
 - [habr](https://habr.com/ru/users/nomilkinmyhome/posts/) writer
