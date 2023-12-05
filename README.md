@@ -1,7 +1,7 @@
 ## About me
 
-- senior backend engineer (Python/Golang)
-- [CodingTeam](https://codingteam.ru/) TechLead & TeamLead
+- backend engineer (Python/Golang)
+- senior golang dev at [Ozon Bank](https://finance.ozon.ru/)
 - author of the [elasticmapper](https://github.com/nomilkinmyhome/elasticmapper) library
 - [habr](https://habr.com/ru/users/nomilkinmyhome/posts/) writer
 - [MoscowCityHack2022](https://moscityhack2022.innoagency.ru/) 1-st place winner
