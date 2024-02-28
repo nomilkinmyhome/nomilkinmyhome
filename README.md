@@ -7,6 +7,3 @@
 
 ## Contact me
 - Telegram [@no_milk_in_my_home](https://t.me/no_milk_in_my_home)
-
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomilkinmyhome&langs_count=8)
