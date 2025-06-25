@@ -1,5 +1,5 @@
 ## About me
-- backend engineer (Python/Golang) at [Wildberries](wildberries.ru)
+- backend engineer (Python/Golang) at [Wildberries](https://wildberries.ru)
 - author of the [elasticmapper](https://github.com/nomilkinmyhome/elasticmapper) library
 - [MoscowCityHack2022](https://moscityhack2022.innoagency.ru/) 1-st place winner
 - [DataHack2022](https://data-hack.ru/) 3-rd place winner
